@@ -78,4 +78,28 @@ strings secret
 
 ## Networking Administration
 ### Hello Containerlabs
+![](https://github.com/mooroon/S2A1/blob/main/hello.png)
+### Connect test-server to a router
+![](https://github.com/mooroon/S2A1/blob/main/Connect%20test-server%20to%20a%20router.png)
+### Two networks; one router
+![](https://github.com/mooroon/S2A1/blob/main/Two%20networks%3B%20one%20router.png)
 
+## Challenges
+### challenge.000.000
+```bash
+
+```
+### challenge.000.001
+```bash
+
+```
+### challenge.000.002
+```bash
+
+```
+### challenge .000.003
+![](https://github.com/mooroon/S2A1/blob/main/challenge003.png)
+### challenge.000.004
+![](https://github.com/mooroon/S2A1/blob/main/challenge004.png)
+### challenge.000.005
+![]()
