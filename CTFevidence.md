@@ -87,19 +87,33 @@ strings secret
 ## Challenges
 ### challenge.000.000
 ```bash
-
+ ls
+ cd
+ inhere/
+ ls
+ ls -a
+ cat .secret 
+history
 ```
 ### challenge.000.001
 ```bash
-
+ls -a
+cat secret.hint 
+find / -size +50c -size -60c
+cat /lusr/local/share/obsolete_libs/W344gweSDl.flag 
+history
 ```
 ### challenge.000.002
 ```bash
-
+ ls -a
+ cat secret.flag 
+ cat secret.hint 
+ cat secret.flag | grep hornstone
+ history
 ```
 ### challenge .000.003
 ![](https://github.com/mooroon/S2A1/blob/main/challenge003.png)
 ### challenge.000.004
 ![](https://github.com/mooroon/S2A1/blob/main/challenge004.png)
 ### challenge.000.005
-![]()
+![](https://github.com/mooroon/S2A1/blob/main/Screenshot%20from%202024-08-23%2013-28-11.png)
